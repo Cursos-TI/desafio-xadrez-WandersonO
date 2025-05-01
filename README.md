@@ -3,13 +3,7 @@ Você pode escolher qualquer um dos desafios para desenvolver. Sinta-se à vonta
 
 # Desafio de Xadrez - MateCheck
 
-Bem-vindo ao desafio de Xadrez da MateCheck! Este projeto tem como objetivo testar e determinar os limites de utilização do código dentro do jogo utilizando estruturas de repetição e funções avançadas.
-
-## Níveis do Desafio
-
-### 🏅 Nível Novato
-
-A equipe de testes da MateCheck recebeu uma solicitação para determinar os limites de utilização do código dentro do jogo. Para isso, a equipe de programação solicitou o envio de blocos de código contendo loops (estruturas de repetição) para avaliação de desempenho e possibilidades de aplicação.
+Bem-vitro do jogo. Para isso, a equipe de programação solicitou o envio de blocos de código contendo loops (estruturas de repetição) para avaliação de desempenho e possibilidades de aplicação.
 
 **Movimentação das Peças:**
 - Bispo: 5 casas na diagonal superior direita
@@ -73,3 +67,10 @@ Obs: É obrigatório o uso de loops aninhados na movimentação do bispo e funç
 Ao concluir este desafio, você terá um conhecimento mais profundo de estruturas complexas e elaboradas, amplamente utilizadas no mercado de trabalho. Boa sorte e boa programação!
 
 Equipe de Ensino - MateCheck
+ndo ao desafio de Xadrez da MateCheck! Este projeto tem como objetivo testar e determinar os limites de utilização do código dentro do jogo utilizando estruturas de repetição e funções avançadas.
+
+## Níveis do Desafio
+
+### 🏅 Nível Novato
+
+A equipe de testes da MateCheck recebeu uma solicitação para determinar os limites de utilização do código den
