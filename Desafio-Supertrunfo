@@ -1,13 +1,15 @@
 include <stdio.h>
+
 int main(){
+    printf("Desafio xadrez!\n")
+    
     printf("Carta 1")
     printf("Estado: A');
     printf["Codigo da carta:"("A01")];
-    
     char["Nome da Cidade:"("Rio de Janeiro")];
     int ("População: 16.055.174");
-    
     float("Àrea: 43.696 km²");
     float("Pib: 1,15 trilhão");
-    int("Pontos Turísticos: 58\n");
+    int("Pontos Turísticos: 58");
+
 }
