@@ -12,4 +12,5 @@ int main(){
     float("Pib: 1,15 trilhão");
     int("Pontos Turísticos: 58");
 
-}
+    }
+    retunr 0;
